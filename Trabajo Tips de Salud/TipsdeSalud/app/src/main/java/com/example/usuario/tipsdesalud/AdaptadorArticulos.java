@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.bumptech.glide.Glide;
+
 //import com.programandoando.hamp.tipsdesalud.Modelo.ModeloArticulos;
 import com.example.usuario.tipsdesalud.modelo.ModeloArticulos;
 import java.util.List;

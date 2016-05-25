@@ -10,13 +10,16 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.example.usuario.tipsdesalud.modelo.ModeloArticulos;
+
 import com.programandoando.hamp.tipsdesalud.Modelo.ModeloArticulos;
+
 /**
  * Fragmento que representa el panel del detalle de un artículo.
  */
 public class FragmentoDetalleArticulo extends Fragment {
     // EXTRA
     public static final String ID_ARTICULO = "extra.idArticulo";
+
     // Artículo al cual está ligado la UI
     private ModeloArticulos.Articulo itemDetallado;
     public FragmentoDetalleArticulo() {

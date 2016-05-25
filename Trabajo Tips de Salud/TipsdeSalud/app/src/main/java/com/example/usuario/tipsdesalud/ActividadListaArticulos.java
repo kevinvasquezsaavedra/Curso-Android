@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import com.example.usuario.tipsdesalud.modelo.ModeloArticulos;
+
 import com.programandoando.hamp.tipsdesalud.Modelo.ModeloArticulos;
 /**
  * Actividad con la lista de artículos. Si el ancho del dispositivo es mayor o igual a 900dp,
